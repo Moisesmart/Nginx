@@ -17,3 +17,16 @@
   <img src="https://www.techrepublic.com/a/hub/i/r/2017/09/28/3a9d4076-ba4c-4f6f-a5d8-161625cc8716/resize/770x/2db5d54233e54e1a7e45d1ce9a434cac/nginxhero.jpg">
 </p>
 
+### Nginx está diseñado para ofrecer un bajo uso de memoria y alta concurrencia. En lugar de crear nuevos procesos para cada solicitud web, Nginx usa un enfoque asincrónico basado en eventos donde las solicitudes se manejan en un solo hilo.
+
+### Con Nginx, un proceso maestro puede controlar múltiples procesos de trabajo. El proceso maestro mantiene los procesos de trabajo, y son estos lo que hacen el procesamiento real.
+
+### Algunas características comunes que se ven en Nginx incluyen:
+
+   ### Proxy inverso con caché
+   ### IPv6
+   ### Balanceo de carga
+   ### Soporte FastCGI con almacenamiento en caché
+   ### Websockets
+   ### Manejo de archivos estáticos, archivos de índice y auto indexación
+   ### TLS / SSL con SNI
