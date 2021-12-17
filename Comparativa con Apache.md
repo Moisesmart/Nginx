@@ -21,8 +21,15 @@
 ##    La posición de Nginx en el mercado ha ido en crecimiento constante en los últimos años.
 ##    En algunas ocasiones, Nginx ha tenido la ventaja competitiva en términos de desempeño.
 
-
-<h1><FONT COLOR="red">APACHE</FONT></h1>
+.apache {
+    margin: 0 0 20px; /* un poco más de espacio entre parrafos */
+    font-size: 1.25em; /* un poco más de grande la tipografía para leer mejor */
+    line-height: 1.6em; /* un poco más altura de línea para que sea más claro el foco línea por línea */ 
+    color: #444; /* un color más oscuro para el texto del parrafo */
+}
+<div class="apache">
+<h1>APACHE<h1>
+<div>
 
 ## Después del CERN httpd y el NCSA HTTPd de TimBerners-Lee durante los primeros años del internet, llegó Apache – lanzado originalmente en 1995 – y conquistó en unos instantes el mercado para convertirse en el servidor web más popular. Hoy en día, sigue ocupando una fuerte posición en el mercado, pero mayormente por razones de legado. Apache sigue siendo desarrollado y mantenido por el Apache Foundation, bajo la licencia Apache.
 
