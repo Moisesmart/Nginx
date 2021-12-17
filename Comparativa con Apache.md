@@ -59,3 +59,16 @@ Módulos
 ## Los Módulos – como una función que permite a los usuarios extender funcionalidad de servidor web – existen en Nginx y Apache. Apache permite que los usuarios instalen módulos una vez que el servidor web ya ha sido instalado y lanzado, y luego los habilita/deshabilita cuando sean necesarios. Las distribuciones basadas en Debian tienen comandos que permiten habilitar y deshabilitar estos módulos sin tener que editar los archivos de configuración: a2enmod y a2dismod.
 
 ## La lista oficial de módulos que vienen como parte de la distribución estándar de Apache están aquí y estas incluyen cosas como la compresión, encriptación, inicio de sesión, redirecciones a cosas más avanzadas como editar peticiones y respuestas con sintaxis avanzada.
+
+ 
+ 
+ ## NGINX
+ 
+ 
+## Nginx (también escrito como nginx o NGINX), entró en escena en el 2004, cuando fue lanzado por primera vez de forma pública por el desarrollador Ruso Igor Sysoev. Como Owen Garret, el jefe de proyecto de Nginx dijo:
+
+    «Nginx fue escrito específicamente para resolver las limitantes de desempeño de los servidores web de Apache.»
+
+## El servidor fue creado primero como una herramienta para escalar para el sitio web de rambler.ru en el 2002. Este viene en dos versiones: open source, con licencia tipo-BSD, y Nginx plus, con soporte y funciones empresariales adicionales.
+
+## Después de ser lanzado, Nginx fue usado principalmente para servir archivos estáticos y como un balanceador de carga o proxy inverso en frente de instalaciones Apache. Mientras evolucionaba la red, y la necesidad de exprimir hasta la última gota de la velocidad y eficiencia de uso de hardware con este, más sitios empezaron a reemplazar Apache con Nginx por completo, gracias a un software mucho más maduro.
