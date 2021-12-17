@@ -1,3 +1,16 @@
+
+#include <iostream>
+#include "colors.h"
+
+using namespace std;
+
+int main () {
+ 
+  cout << RED     << " APACHE     " << endl;
+ 
+  return 0;
+}
+
 .contenedor-imagenes {
   display: flex;
 }
@@ -21,17 +34,6 @@
 ##    La posición de Nginx en el mercado ha ido en crecimiento constante en los últimos años.
 ##    En algunas ocasiones, Nginx ha tenido la ventaja competitiva en términos de desempeño.
 
-#include <iostream>
-#include "colors.h"
-
-using namespace std;
-
-int main () {
- 
-  cout << RED     << " APACHE     " << endl;
- 
-  return 0;
-}
 <h1>APACHE<h1>
 
 
