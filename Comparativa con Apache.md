@@ -1,16 +1,3 @@
-
-#include <iostream>
-#include "colors.h"
-
-using namespace std;
-
-int main () {
- 
-  cout << RED     << " APACHE     " << endl;
- 
-  return 0;
-}
-
 .contenedor-imagenes {
   display: flex;
 }
