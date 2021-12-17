@@ -14,6 +14,6 @@
 
 ## <p align="center">
 ## <h1>¿Cómo Funciona Nginx?</h1>
-  <img src="https://gfycat.com/deepathleticcoati-nginx-web-server-configuration-how-to-install-nginx">
+  <img src="https://www.techrepublic.com/a/hub/i/r/2017/09/28/3a9d4076-ba4c-4f6f-a5d8-161625cc8716/resize/770x/2db5d54233e54e1a7e45d1ce9a434cac/nginxhero.jpg">
 </p>
 
