@@ -1,10 +1,3 @@
-.contenedor-imagenes {
-  display: flex;
-}
-
-.contenedor-imagenes img:first-child {
-  margin-right: 10px;
-}
  <p align="center">
  <h1>Nginx VS  Apache</h1>
 </p>
