@@ -22,7 +22,7 @@
 ##    En algunas ocasiones, Nginx ha tenido la ventaja competitiva en términos de desempeño.
 
 
-<FONT SIZE=6 COLOR="red">APACHE</FONT>
+<FONT SIZE=1 COLOR="red">APACHE</FONT>
 
 ## Después del CERN httpd y el NCSA HTTPd de TimBerners-Lee durante los primeros años del internet, llegó Apache – lanzado originalmente en 1995 – y conquistó en unos instantes el mercado para convertirse en el servidor web más popular. Hoy en día, sigue ocupando una fuerte posición en el mercado, pero mayormente por razones de legado. Apache sigue siendo desarrollado y mantenido por el Apache Foundation, bajo la licencia Apache.
 
