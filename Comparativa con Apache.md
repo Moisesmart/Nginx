@@ -76,3 +76,9 @@ Módulos
 <p align="center"><h1>Configuración Nginx<h1></p>
 
 ## Nginx no tiene un sistema de configuración como Apache, así que, a pesar de ser mucho más eficiente y rápido, no es tan usado con los proveedores de hosting. No resalta tanto en entornos compartidos como Apache.
+ 
+## Módulos Nginx
+
+## El sistema de módulos de Nginx es una cosa más que se posiciona como una elección más premium. Los módulos de Nginx típicamente necesitan ser habilitados durante el tiempo de su construcción, lo que quiere decir que esto requiere más habilidad técnica, y la adición de módulos después de la instalación es un poco más compleja.
+
+## En el 2016, con la versión 1.9.11, las cosas han cambiado y el repositorio oficial/verificado de los módulos dinámicos es reservado para los usuarios de paga. Desde Mayo del 2019, ellos anunciaron que empezarían a desarrollar el soporte para QUIC y HTTP/3.
