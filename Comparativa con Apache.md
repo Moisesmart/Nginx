@@ -72,3 +72,7 @@ Módulos
 ## El servidor fue creado primero como una herramienta para escalar para el sitio web de rambler.ru en el 2002. Este viene en dos versiones: open source, con licencia tipo-BSD, y Nginx plus, con soporte y funciones empresariales adicionales.
 
 ## Después de ser lanzado, Nginx fue usado principalmente para servir archivos estáticos y como un balanceador de carga o proxy inverso en frente de instalaciones Apache. Mientras evolucionaba la red, y la necesidad de exprimir hasta la última gota de la velocidad y eficiencia de uso de hardware con este, más sitios empezaron a reemplazar Apache con Nginx por completo, gracias a un software mucho más maduro.
+ 
+<p align="center">Configuración Nginx</p>
+
+## Nginx no tiene un sistema de configuración como Apache, así que, a pesar de ser mucho más eficiente y rápido, no es tan usado con los proveedores de hosting. No resalta tanto en entornos compartidos como Apache.
