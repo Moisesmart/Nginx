@@ -12,3 +12,12 @@
   <img src="https://desarrolloweb.com/storage/tag_images/actual/nzShTvdaGzLCIO0FalGMkhnqXIcXcIwXABW9b4JU.png" "image" height="211" width="211">
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nginx_icon_130305.png" alt= "image" height="211" width="211">
 </div>
+
+
+## Nginx y Apache son servidores web populares usados para enviar páginas web al navegador del usuario. En nuestro caso, desde un sitio de WordPress con un host. Datos rápidos:
+
+##    Apache fue lanzado primero en 1995, luego llegó Nginx en el 2004.
+##    Ambos son usados por grandes compañías Fortune 500 alrededor del mundo.
+##    La posición de Nginx en el mercado ha ido en crecimiento constante en los últimos años.
+##    En algunas ocasiones, Nginx ha tenido la ventaja competitiva en términos de desempeño.
+
