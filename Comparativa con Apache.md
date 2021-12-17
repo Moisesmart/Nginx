@@ -21,3 +21,9 @@
 ##    La posición de Nginx en el mercado ha ido en crecimiento constante en los últimos años.
 ##    En algunas ocasiones, Nginx ha tenido la ventaja competitiva en términos de desempeño.
 
+
+# APACHE
+
+## Después del CERN httpd y el NCSA HTTPd de TimBerners-Lee durante los primeros años del internet, llegó Apache – lanzado originalmente en 1995 – y conquistó en unos instantes el mercado para convertirse en el servidor web más popular. Hoy en día, sigue ocupando una fuerte posición en el mercado, pero mayormente por razones de legado. Apache sigue siendo desarrollado y mantenido por el Apache Foundation, bajo la licencia Apache.
+
+## Hay dos historias distintas sobre como Apache obtuvo su nombre. La primera versión dice que el nombre se originó de la famosa herencia Nativo Americana, mientras que la otra dice que el nombre es un chiste originado de la frase “a patchy server” o en español un servidor con muchos parches, después de recibir una gran cantidad de patches de software.
