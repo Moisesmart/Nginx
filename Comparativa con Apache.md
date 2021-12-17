@@ -37,7 +37,7 @@
 
 ## Como dice la documentación oficial dice:
 
-    ## «En general, usted debería usar los archivos .htaccess cuando uno no tenga acceso al archivo de configuración principal del servidor.»
+    «En general, usted debería usar los archivos .htaccess cuando uno no tenga acceso al archivo de configuración principal del servidor.»
 
 ## Esta flexibilidad, sin embargo, viene con un costo sobre el desempeño “¡permitiendo que los archivos .htaccess causen cambios en el desempeño, quiere o no usarlos!”
 
