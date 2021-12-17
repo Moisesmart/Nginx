@@ -13,7 +13,7 @@
 
 
 ## <p align="center">
-## ¿Cómo Funciona Nginx?
+## <h1>¿Cómo Funciona Nginx?</h1>
   <img src="https://gfycat.com/deepathleticcoati-nginx-web-server-configuration-how-to-install-nginx">
 </p>
 
