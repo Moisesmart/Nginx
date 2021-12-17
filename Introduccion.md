@@ -7,3 +7,9 @@
 ### Nginx creado originalmente por Igor Sysoev, y tuvo su primer lanzamiento público en octubre de 2004. Igor concibió inicialmente el software como una respuesta al problema C10K, que se refiere al problema de rendimiento de manejar 10,000 conexiones concurrentes.
 
 ### Debido a que sus raíces yacen en la optimización del rendimiento bajo escala, Nginx a menudo supera a otros populares servidores web en pruebas de rendimiento (Benchmarks), especialmente en situaciones con contenido estático y/o un elevado número de solicitudes concurrentes, es por eso que Kinsta usa Nginx para impulsar su hosting.
+
+
+
+
+
+##                                                                                         ¿Cómo Funciona Nginx?
