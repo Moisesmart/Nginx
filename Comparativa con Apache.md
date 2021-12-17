@@ -21,12 +21,17 @@
 ##    La posición de Nginx en el mercado ha ido en crecimiento constante en los últimos años.
 ##    En algunas ocasiones, Nginx ha tenido la ventaja competitiva en términos de desempeño.
 
-/* .apache {
-    margin: 0 0 20px; /* un poco más de espacio entre parrafos */
-    font-size: 1.25em; /* un poco más de grande la tipografía para leer mejor */
-    line-height: 1.6em; /* un poco más altura de línea para que sea más claro el foco línea por línea */ 
-    color: #444; /* un color más oscuro para el texto del parrafo */
-/* }
+#include <iostream>
+#include "colors.h"
+
+using namespace std;
+
+int main () {
+ 
+  cout << RED     << " APACHE     " << endl;
+ 
+  return 0;
+}
 <h1>APACHE<h1>
 
 
