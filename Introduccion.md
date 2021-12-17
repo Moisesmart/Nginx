@@ -12,4 +12,8 @@
 
 
 
-##                                                                                         ¿Cómo Funciona Nginx?
+<p align="center">
+¿Cómo Funciona Nginx?
+  <img src="https://gfycat.com/deepathleticcoati-nginx-web-server-configuration-how-to-install-nginx">
+</p>
+
